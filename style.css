@@ -32,7 +32,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #288be6;
+  color: #FFE4E1;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -167,14 +167,15 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   border-radius: 4px;
-  background-color: #288be6;
-  color: #ffffff;
+  color: #222222;
+  margin-left: 30px;
+  position: relative;
 }
 
 .page-footer {
   padding: 40px 0;
   background-color: #8b734b;
-  color: #ffffff;
+  color: #FFE4E1;
 }
 
 .page-footer a {
