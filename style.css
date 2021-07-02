@@ -4,7 +4,7 @@ body {
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
-  color: #222222;
+  color: #000000;
   background-color: #e1ddd4;
   background-repeat: no-repeat;
   background-image: url(img/backgrnd.png);
@@ -15,7 +15,7 @@ body {
   height: 500px;
   margin: 5px 20px 20px 550px;
   padding: 0 16px;
-  border-left:5px solid #000000;
+  border-left:5px solid #867666;
 }
 
 .page-header {
@@ -50,6 +50,11 @@ body {
   margin: 2px 0px 7px 30px;
 }
 
+.leftimg1{
+  float: left;
+  margin: 80px 0px 7px 50px;
+  }
+
 .button {
   padding: 6px 13px;
   display: inline-block;
@@ -57,7 +62,7 @@ body {
   text-decoration: underline;
   text-transform: uppercase;
   color: #000000;
-  margin-top: 580px;
+  margin-top: 165px;
   margin-left: 10px;
   position: relative;
 }
