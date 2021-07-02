@@ -57,7 +57,17 @@ body {
   text-decoration: underline;
   text-transform: uppercase;
   color: #000000;
-  margin-top: 500px;
-  margin-left: 10px;
+  margin-left: 700px;
   position: relative;
+}
+
+table{
+ border-collapse: collapse;
+}
+
+td {
+  border: 2px solid grey;
+}
+h1 {
+text-align: center;
 }

@@ -15,7 +15,6 @@ body {
   height: 500px;
   margin: 5px 20px 20px 550px;
   padding: 0 16px;
-  border-left:5px solid #867666;
 }
 
 .page-header {
@@ -47,13 +46,9 @@ body {
 
 .leftimg{
   float: left;
-  margin: 2px 0px 7px 30px;
+  margin: 20px 0px 7px 30px;
+  padding: 20px;
 }
-
-.leftimg1{
-  float: left;
-  margin: 80px 0px 7px 50px;
-  }
 
 .button {
   padding: 6px 13px;
@@ -62,7 +57,6 @@ body {
   text-decoration: underline;
   text-transform: uppercase;
   color: #000000;
-  margin-top: 165px;
-  margin-left: 10px;
-  position: relative;
+  margin-top: 40px;
+  margin-left: 230px;
 }
